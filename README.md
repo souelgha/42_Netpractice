@@ -1,2 +1,3 @@
 # NetPractice 
 project of 10 exercises to  discover the network, the masks of subnets, routers, switch...
+![apercu](https://github.com/souelgha/42_Netpractice/blob/main/netpractice.png)
